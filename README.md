@@ -1,7 +1,6 @@
 # Website GIS Skripsi: Pemetaan Zonasi Pajak Reklame
 
 Website ini adalah Sistem Informasi Geografis (GIS) berbasis web yang mengintegrasikan algoritma **K-Means Clustering** (Artificial Intelligence) untuk memetakan zonasi potensi pajak reklame. 
-
 Studi kasus proyek ini dilakukan pada Badan Pengelola Keuangan dan Pendapatan Daerah (BPKPD) Kabupaten Simalungun (Kecamatan Bandar) guna membantu optimalisasi pendapatan daerah.
 
 ## Fitur Utama
@@ -10,7 +9,7 @@ Studi kasus proyek ini dilakukan pada Badan Pengelola Keuangan dan Pendapatan Da
 **Manajemen Data:** Mengelola data titik reklame dan melihat hasil analisis *clustering*.
 
 ## Teknologi yang Digunakan
-**Bahasa Pemrograman:** PHP / Python *(Pilih salah satu, hapus yang tidak perlu)*
+**Bahasa Pemrograman:** PHP / Python 
 **Frontend:** HTML, CSS, JavaScript
 **Database:** MySQL
 **Algoritma AI:** K-Means Clustering
